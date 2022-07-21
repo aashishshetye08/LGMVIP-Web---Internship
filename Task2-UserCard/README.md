@@ -1,4 +1,4 @@
-# User Card Layout using React.js
+# User Card Layout using React
 
 
 ## To Run the App:
